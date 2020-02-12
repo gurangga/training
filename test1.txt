@@ -1,1 +1,2 @@
 bebas test doang
+namba line gk pake echo
